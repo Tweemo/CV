@@ -5,8 +5,9 @@ const App = () => {
   
   return (
     <div>
-    Hello
-    <InfoBox />
+      <InfoBox category="Experience"/>
+      <InfoBox category="Experience"/>
+      <InfoBox category="Experience"/>
     </div>
   )
 }
