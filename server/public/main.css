@@ -1,5 +1,5 @@
 .dropbox {
-  width: 60vw;
+  width: 70vw;
   height: 10vh;
   border: solid black 2px;
   background-color: rgb(182, 182, 182);
@@ -17,6 +17,25 @@
 
 .expand-btn {
   font-size: 70px;
-  margin: auto;
   width: 4%;
+  margin: auto;
 }
+
+.main-title {
+  width: 100vw;
+  height: 100vh;
+  /* background-image: url('./images/matrix.gif');
+  background-size: contain; */
+}
+
+  body {
+    background-image: url('./images/matrix.gif');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
+  .content {
+    background-color: white;
+    background-size: 100%;
+  }
